@@ -18,10 +18,17 @@ This organisation documents a structured training journey through core neuroimag
 
 ## Featured Repositories
 
-* [fMRI Functional Connectivity (DMN)](https://github.com/neuroimaging-methods-lab/repo1-fmri-functional-connectivity-dmn)
-* [Task-fMRI GLM Cognitive Activation](https://github.com/neuroimaging-methods-lab/repo5-task-fmri-glm-cognitive-activation)
-* [Age Prediction from fMRI](https://github.com/neuroimaging-methods-lab/repo2-age-prediction-fmri)
-* [ADHD Classification from fMRI](https://github.com/neuroimaging-methods-lab/repo3-adhd-classification)
+* [End-to-End fMRI Reliability and Reproducibility Pipeline](https://github.com/neuroimaging-methods-lab/repo6-fmri-reproducibility-pipeline)
+  Advanced capstone project examining how preprocessing and thresholding decisions shape task-fMRI results.
+
+* [Task-fMRI GLM Cognitive Activation Analysis](https://github.com/neuroimaging-methods-lab/repo5-task-fmri-glm-cognitive-activation)
+  End-to-end task-based fMRI workflow using classical GLM modelling and contrast-based activation mapping.
+
+* [Advanced ADHD Classification from Resting-State Functional Connectivity](https://github.com/neuroimaging-methods-lab/repo4-advanced-adhd-classification)
+  Iterative machine learning study improving a baseline clinical classification pipeline through feature selection and model comparison.
+
+* [Classifying ADHD from Resting-State Functional Connectivity Using Machine Learning](https://github.com/neuroimaging-methods-lab/repo3-adhd-classification)
+  Baseline clinical neuroimaging classification project highlighting the importance of evaluation metrics and transparent reporting.
 
 ## Why This Organization Exists
 
